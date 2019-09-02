@@ -34,7 +34,7 @@ export class OwnerSummary {
 @Component({
     selector: 'app-security-analysis',
     templateUrl: 'security-analysis.component.html',
-    styleUrls: ['security-analysis.component.css']
+    styleUrls: ['security-analysis.component.scss']
 })
 export class SecurityAnalysisComponent implements OnInit {
     public testData: OwnerSummary = {

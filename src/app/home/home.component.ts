@@ -21,7 +21,7 @@ import { Router } from '@angular/router';
             </div>
         </div>
     `,
-    styleUrls: ['./home.component.css']
+    styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
     constructor(

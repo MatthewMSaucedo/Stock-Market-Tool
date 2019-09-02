@@ -29,7 +29,7 @@ import { device } from 'device.js';
         </body>
     </ng-template>
     `,
-    styleUrls: ['auth.component.css']
+    styleUrls: ['auth.component.scss']
 })
 export class AuthComponent implements OnInit, OnDestroy {
     public isMobile: boolean;

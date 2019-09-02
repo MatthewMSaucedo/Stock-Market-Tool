@@ -114,6 +114,6 @@ import { Component } from '@angular/core';
             </div>
         </div>
     `,
-    styleUrls: ['dashboard.component.css']
+    styleUrls: ['dashboard.component.scss']
 })
 export class DashboardComponent { }

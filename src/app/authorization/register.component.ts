@@ -64,7 +64,7 @@ import { Subscription } from 'rxjs';
                 </div>
             </div>
     `,
-    styleUrls: ['login.component.css']
+    styleUrls: ['login.component.scss']
 })
 export class RegisterComponent implements OnInit, OnDestroy {
     public errorMessage: string;
